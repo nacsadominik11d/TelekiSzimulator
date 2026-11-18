@@ -1,0 +1,169 @@
+{
+  "title": "probaaaaaaaa5",
+  "start": "1",
+  "scenes": [
+    {
+      "id": "1",
+      "title": "ebreszto karacsony reggel",
+      "level": 0,
+      "ending": false,
+      "text": "Anyád kellt hogy kelljél mer jönnek nemsoká a vendégek és takarítani kell.",
+      "media": "1.jpg",
+      "choices": [
+        {
+          "label": "felkellsz és segítessz",
+          "next": "2"
+        },
+        {
+          "label": "leszarod és alszol tovább",
+          "next": "3"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "ajándékosztás",
+      "level": 1,
+      "ending": false,
+      "text": "megkapod az ajándékot",
+      "media": "6.jpg",
+      "choices": [
+        {
+          "label": "tetszik az ajándék",
+          "next": "7"
+        },
+        {
+          "label": "tetteted hogy tetszik",
+          "next": "7"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "ajandekosztas tetszik e",
+      "level": 1,
+      "ending": false,
+      "text": "Ha tetszik ha nem örülsz neki ne bántsd meg őket és utánna inkább énekelsz",
+      "media": "7.jpg",
+      "choices": [
+        {
+          "label": "mindenki berugott",
+          "next": "10"
+        },
+        {
+          "label": "hazamentek",
+          "next": "10"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "berugsz",
+      "level": 1,
+      "ending": false,
+      "text": "berugtál és akkor is megkaptad az ajándékod de anyád lőtt egy pofont",
+      "media": "8.jpg",
+      "choices": [
+        {
+          "label": "ajándékra koncentrálsz",
+          "next": "7"
+        },
+        {
+          "label": "bemész a szobádba és alszol",
+          "next": "10"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "berugtak",
+      "level": 1,
+      "ending": false,
+      "text": "Berugtak a vendégek és hazamentek",
+      "media": "9.jpg",
+      "choices": [
+        {
+          "label": ".",
+          "next": "10"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "elsimlized",
+      "level": 1,
+      "ending": false,
+      "text": "anyád megcsinálja helyetted és ideges lessz",
+      "media": "5.jpg",
+      "choices": [
+        {
+          "label": "pihenhetsz",
+          "next": "6"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "fellkelsz",
+      "level": 1,
+      "ending": false,
+      "text": "anyád megkér segíts kitakaritani az egész házat",
+      "media": "2.jpg",
+      "choices": [
+        {
+          "label": "segítessz",
+          "next": "4"
+        },
+        {
+          "label": "elsimlized",
+          "next": "5"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "jol megcsinalod a munkat",
+      "level": 1,
+      "ending": false,
+      "text": "anyád boldog és jöhetnek a vendégek",
+      "media": "4.jpg",
+      "choices": [
+        {
+          "label": "megvárom az ajándékosztást",
+          "next": "6"
+        },
+        {
+          "label": "berugsz",
+          "next": "8"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "nem segítessz",
+      "level": 1,
+      "ending": false,
+      "text": "anyád bemegy és egy fakanalat szétver a hátadon",
+      "media": "3.jpg",
+      "choices": [
+        {
+          "label": "mész segiteni",
+          "next": "4"
+        },
+        {
+          "label": "ezen tul is nem érdekel",
+          "next": "5"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "vége",
+      "level": 1,
+      "ending": false,
+      "text": "ennek is vége lassan iskola",
+      "media": "10.jpg",
+      "choices": []
+    }
+  ]
+}
